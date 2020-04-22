@@ -1,0 +1,34 @@
+** Cara Penggunaan Aplikasi Project Management**
+
+#Setiap memilih sebuah menu hanya perlu mengetik angka dari menu tersebut dan klik Enter
+
+1. Pada menu utama, pilih Login
+2. Pilih Admin/Manager 
+3. Untuk admin, masukkan username = "alfi" password = "123" tanpa tanda petik, lalu enter 
+dan untuk manager masukkan username = "shadif" password = "123" tanpa tanda petik lalu enter
+(Aplikasi akan mendeteksi username admin atau username manager)
+
+Setelah itu Anda akan dialihkan ke menu admin jika anda memasukkan ID admin dan ke menu manager jika Anda memasukkan ID manager
+
+#Untuk Admin# 
+4. Pilih menu data programmer atau data project
+5. Untuk memasukkan programmer baru, pilih insert data 
+6. Untuk melihat programmer-programmer yang ada pada manajemen proyek, pilih View Data
+7. Poin 5 dan 6  berlaku sama ketika memilih data project (Pada poin 3)
+
+#Untuk Manager#
+4. Menu Insert Penugasan untuk memasukkan tugas baru kepada programmer
+5. Pilih menu Insert Penugasan dan ketik username programmer yang akan diberi tugas lalu tekan enter
+6. Menu View Penugasan Setiap Programmer untuk melihat tugas yang dimiliki programmer
+
+Note :
+Beberapa fitur masih dalam tahap pembuatan, diantaranya :
+-Menu Delete Data dan Update Data pada menu admin
+-Menu View All Programmer dan Total Tugas pada menu manager
+-Menu View All Project dan Total Programmer pada menu manager
+-Menu Update Status pada menu manager
+-Menu Hapus Tugas Untuk Programmer pada menu manager
+
+Anggota:
+1. Muhammad Alfi Syahri Nasution 1301190326
+2. Shadifa Auliatama Harjanto 1301194220

@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1586510827 source:c:\users\user\documents\kuliah\semester 2\strukdat\tubes\project_management\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<fstream>
+	"imp_project.cpp"
+	"imp_programmer.cpp"
+	"imp_relasi.cpp"
+	"imp_index.cpp"
+
+1586683286 c:\users\user\documents\kuliah\semester 2\strukdat\tubes\project_management\imp_project.cpp
+	"project.h"
+
+1586598383 c:\users\user\documents\kuliah\semester 2\strukdat\tubes\project_management\project.h
+	"index.h"
+
+1586599925 c:\users\user\documents\kuliah\semester 2\strukdat\tubes\project_management\imp_programmer.cpp
+	"programmer.h"
+
+1586599938 c:\users\user\documents\kuliah\semester 2\strukdat\tubes\project_management\programmer.h
+	<iostream>
+	"index.h"
+
+1586599485 c:\users\user\documents\kuliah\semester 2\strukdat\tubes\project_management\index.h
+	<iostream>
+
+1586683212 c:\users\user\documents\kuliah\semester 2\strukdat\tubes\project_management\imp_relasi.cpp
+	<iostream>
+	"relasi.h"
+	<cstdlib>
+	<ctime>
+
+1586682518 c:\users\user\documents\kuliah\semester 2\strukdat\tubes\project_management\relasi.h
+	<iostream>
+	"index.h"
+
+1586682557 c:\users\user\documents\kuliah\semester 2\strukdat\tubes\project_management\imp_index.cpp
+	"index.h"
+	<stdlib.h>
+

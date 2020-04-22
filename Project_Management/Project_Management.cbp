@@ -32,8 +32,29 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="imp_index.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="imp_programmer.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="imp_project.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="imp_relasi.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="index.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
 		<Unit filename="main.cpp" />
+		<Unit filename="programmer.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
 		<Unit filename="project.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="relasi.h">
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
 		<Extensions>
